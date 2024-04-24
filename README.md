@@ -1,3 +1,5 @@
+> [!NOTE]
+> Una nota
 # Interfaz de Fourier y Espectro
 
 Este código MATLAB proporciona una interfaz gráfica de usuario (GUI) para calcular y visualizar la serie de Fourier y el espectro de una función.
